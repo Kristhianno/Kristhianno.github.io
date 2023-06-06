@@ -229,16 +229,18 @@
     #about-container .description {
         margin: 10px auto;
         max-width: 100%;
-        line-height: 26%;
+        line-height: 26px;
 
     }
 
-    #about-projects {
+   
+
+    #btn-projects {
         margin: 20px auto;
     }
 
     .skills-box {
-        flex: 1 1 100%;
+        flex:1 1 100%;
         max-width: 100%;
         margin-bottom: 40px;
         text-align: left;
